@@ -1,0 +1,25 @@
+[
+  {
+    "1": "In a democracy, why do we choose our leaders through elections?",
+    "2": "Before 2008, which form of government did Nepal have?"
+
+  },
+  {
+    "1": {
+      "a": "To ensure all religions are treated the same",
+      "b": "To ensure the country does not become a monarchy",
+      "c": "To exercise power on our behalf",
+      "d": "To draft the constitution of the country"
+    },
+    "2": {
+      "a": "Oligarchy",
+      "b": "Aristocracy",
+      "c": "Democracy",
+      "d": "Monarchy"
+    }
+  },
+  {
+    "1": "To exercise power on our behalf",
+    "2": "Monarchy"
+  }
+]
